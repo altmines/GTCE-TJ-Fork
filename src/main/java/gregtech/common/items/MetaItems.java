@@ -157,6 +157,7 @@ public final class MetaItems {
     public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_LUV;
     public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_ZPM;
     public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_UV;
+    public static MetaItem<?>.MetaValueItem VULCANISED_RUBBER;
 
     public static MetaItem<?>.MetaValueItem ELECTRIC_PUMP_LV;
     public static MetaItem<?>.MetaValueItem ELECTRIC_PUMP_MV;
@@ -422,6 +423,8 @@ public final class MetaItems {
         first.setRegistryName("meta_item_1");
         MetaItem2 second = new MetaItem2();
         second.setRegistryName("meta_item_2");
+        MetaItemSTE third = new MetaItemSTE();
+        third.setRegistryName("meta_item_ste");
         MetaTool tool = new MetaTool();
         tool.setRegistryName("meta_tool");
         MetaArmor armor = new MetaArmor();
