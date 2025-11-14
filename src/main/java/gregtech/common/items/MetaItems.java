@@ -149,6 +149,15 @@ public final class MetaItems {
     public static MetaItem<?>.MetaValueItem ELECTRIC_MOTOR_ZPM;
     public static MetaItem<?>.MetaValueItem ELECTRIC_MOTOR_UV;
 
+    public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_LV;
+    public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_MV;
+    public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_HV;
+    public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_EV;
+    public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_IV;
+    public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_LUV;
+    public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_ZPM;
+    public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_UV;
+
     public static MetaItem<?>.MetaValueItem ELECTRIC_PUMP_LV;
     public static MetaItem<?>.MetaValueItem ELECTRIC_PUMP_MV;
     public static MetaItem<?>.MetaValueItem ELECTRIC_PUMP_HV;
