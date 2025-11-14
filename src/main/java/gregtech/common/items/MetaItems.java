@@ -157,7 +157,7 @@ public final class MetaItems {
     public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_LUV;
     public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_ZPM;
     public static MetaItem<?>.MetaValueItem GEAR_ASSEMBLY_UV;
-    public static MetaItem<?>.MetaValueItem VULCANISED_RUBBER;
+    public static MetaItem<?>.MetaValueItem RAW_RUBBER;
 
     public static MetaItem<?>.MetaValueItem ELECTRIC_PUMP_LV;
     public static MetaItem<?>.MetaValueItem ELECTRIC_PUMP_MV;
