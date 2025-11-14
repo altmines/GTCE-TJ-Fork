@@ -289,6 +289,15 @@ public class MetaItem1 extends MaterialMetaItem {
         INTEGRATED_CIRCUIT = addItem(766, "circuit.integrated").addComponents(new IntCircuitBehaviour()).setModelAmount(33);
         FOAM_SPRAYER = addItem(746, "foam_sprayer").addComponents(new FoamSprayerBehavior());
 
+        GEAR_ASSEMBLY_LV = addItem(767, "electric.motor.lv");
+        GEAR_ASSEMBLY_MV = addItem(768, "electric.motor.mv");
+        GEAR_ASSEMBLY_HV = addItem(769, "electric.motor.hv");
+        GEAR_ASSEMBLY_EV = addItem(770, "electric.motor.ev");
+        GEAR_ASSEMBLY_IV = addItem(771, "electric.motor.iv");
+        GEAR_ASSEMBLY_LUV = addItem(772, "electric.motor.luv");
+        GEAR_ASSEMBLY_ZPM = addItem(773, "electric.motor.zpm");
+        GEAR_ASSEMBLY_UV = addItem(774, "electric.motor.uv");
+
     }
 
     public void registerRecipes() {
